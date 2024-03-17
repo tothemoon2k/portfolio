@@ -4,7 +4,6 @@
     import adI from "$lib/assets/screenshots/artisanDigital/MacBook Pro-1710645472106.jpeg";
     import cbI from "$lib/assets/screenshots/courtBooker/MacBook Pro-1710645852434.jpeg";
     import dnI from "$lib/assets/screenshots/doctorsNote/MacBook Pro-1710645621057.jpeg";
-    import ppI from "$lib/assets/screenshots/petPortraits/MacBook Pro-1710645110975.jpeg";
     import rcI from "$lib/assets/screenshots/retroChat/MacBook Pro-1710645724410.jpeg";
     import cfI from "$lib/assets/screenshots/connectFour/MacBook Pro-1710646176347.jpeg";
 </script> 
@@ -83,7 +82,7 @@
                                 <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
                             </svg>
                         </div>
-                        <img class="rounded-md transition duration-500 group-hover:rounded-lg" src={ppI} alt="project cover" width="1380" height="1380">
+                        <img class="rounded-md transition duration-500 group-hover:rounded-lg" src="#" alt="project cover" width="1380" height="1380">
                         <div class="flex items-center justify-between px-2 py-4">
                             <h2 class="text-zinc-700 dark:text-white">Pet Portraits</h2>
                             <span class="text-xs text-zinc-500 dark:text-zinc-300">Web Design</span>

@@ -8,7 +8,6 @@
     import y from "$lib/assets/screenshots/courtBooker/MacBook Pro-1710645913640.jpeg";
     import u from "$lib/assets/screenshots/courtBooker/MacBook Pro-1710645928951.jpeg";
     import i from "$lib/assets/screenshots/doctorsNote/MacBook Pro-1710645621057.jpeg";
-    import o from "$lib/assets/screenshots/petPortraits/MacBook Pro-1710645110975.jpeg";
     import p from "$lib/assets/screenshots/petPortraits/MacBook Pro-1710645137117.jpeg";
     import a from "$lib/assets/screenshots/petPortraits/MacBook Pro-1710645153131.jpeg";
     import s from "$lib/assets/screenshots/petPortraits/MacBook Pro-1710645170980.jpeg";
@@ -122,7 +121,7 @@
                         <img class="h-full w-full object-cover" src={i} alt="lifestyle" width="2000" height="1330">
                     </div>
                     <div class="hidden h-56 w-20 overflow-hidden rounded-md transition-all duration-500 hover:w-96 sm:block">
-                        <img class="h-full w-full object-cover" src={o} alt="lifestyle" width="996" height="1245">
+                        <img class="h-full w-full object-cover" src="" alt="lifestyle" width="996" height="1245">
                     </div>
                     <div class="hidden h-60 w-20 overflow-hidden rounded-md transition-all duration-500 hover:w-96 sm:block">
                         <img class="h-full w-full object-cover" src={p} alt="lifestyle" width="2000" height="1333">
