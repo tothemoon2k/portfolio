@@ -50,7 +50,7 @@
         </div>
     </header>
     <div aria-hidden="true" class="fixed inset-0 h-[200vh] origin-top scale-y-0 bg-gradient-to-b from-gray-100 from-80% to-transparent transition-transform duration-700 dark:scale-y-100 dark:from-zinc-950"></div>
-    <main class="relative overflow-hidden pt-16 sm:pt-24 lg:pt-40 xl:pt-32">
+    <main class="relative pt-16 sm:pt-24 lg:pt-40 xl:pt-32">
         <section>
             <div class="mx-auto max-w-4xl px-6 md:px-12">
                 <div class="">
@@ -59,11 +59,13 @@
 
                     <div class="my-12 grid gap-12 border-y py-12 text-base text-zinc-700 dark:border-zinc-800 dark:text-zinc-300 sm:grid-cols-2">
                         <div class="space-y-6">
-                            <p>Full Stack Software Engineer (JavaScript technologies &amp; java) | I believe in Jésus-Christ | I am a sports enthusiast...</p>
-                            <p>Deleniti quaerat sequi, itaque magni cumque quisquam vero dolores asperiores sed explicabo voluptatibus eum? Odit explicabo deserunt dignissimos adipisci, cupiditate dolor tempore.</p>
+                            <p>From a young age, I've been driven by an insatiable curiosity to understand how things work and a deep-rooted passion for building. What started as disassembling and reassembling random objects around the house quickly evolved into a lifelong love affair with technology and web development.</p>
+                            <p>At the tender age of 14, I embarked on my coding journey by devouring Colt Steele's full stack web developer course, igniting a fire within me that has only grown brighter with each passing year. Since then, I've been relentlessly honing my skills, crafting a diverse portfolio of full-stack projects that showcase my use of cutting-edge technologies and my ability to transform ideas into polished, user-centric digital experiences.</p>
                         </div>
                         <div class="space-y-6">
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero sapiente possimus magnam id. Quibusdam, necessitatibus culpa placeat quisquam iure, accusamus, molestias aperiam dicta cumque fugiat itaque eos libero impedit quod!</p>
+                            <p>But my ambitions extend far beyond mere web development. I'm a builder at heart, fueled by an unwavering drive to create tech products that genuinely improve people's lives. With each line of code I write, I'm driven by a greater purpose - to build amazing products people truly enjoy using, making their lives easier and more delightful.</p>
+                            <p>When I'm not working at the keyboard, weaving together intricate web applications, you'll find me indulging in my other passions: reading interesting books, moving big weight in the gym, and engaging in thought-provoking conversations with friends.</p>
+                            <p>So, if you're seeking a hard-working and excited partner to join your team and help bring an amazing product to life, look no further. Let's join forces and create something truly remarkable. Drop me a message, and let's embark on an extraordinary journey together!</p>
                             <div class="flex items-center gap-4 divide-x divide-zinc-200 dark:divide-zinc-800">
                                 <div class="flex gap-2">
                                     <a href="https://twitter.com/_justingarner" target="_blank" class="group rounded-md p-2 transition duration-300 hover:bg-zinc-100 dark:hover:bg-zinc-800">
@@ -92,7 +94,7 @@
                 </div>
             </div>
         </section>
-        <section>
+        <section class="hidden md:block">
             <div data-rellax-speed="-3" class="rellax mb-96 overflow-hidden px-1" style="transform: translate3d(0px, 0px, 0px);">
                 <div class="flex items-center justify-center gap-1">
                     <div class="h-96 w-20 overflow-hidden rounded-md transition-all duration-500 hover:w-96">
