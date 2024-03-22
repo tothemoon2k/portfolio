@@ -8,6 +8,11 @@
     import y from "$lib/assets/screenshots/courtBooker/MacBook Pro-1710645913640.jpeg";
     import u from "$lib/assets/screenshots/courtBooker/MacBook Pro-1710645928951.jpeg";
     import i from "$lib/assets/screenshots/doctorsNote/MacBook Pro-1710645621057.jpeg";
+    import o from "$lib/assets/screenshots/petPortraits/MacBook Pro-1710645110975.jpeg";
+    import p from "$lib/assets/screenshots/petPortraits/MacBook Pro-1710645137117.jpeg";
+    import a from "$lib/assets/screenshots/petPortraits/MacBook Pro-1710645153131.jpeg";
+    import s from "$lib/assets/screenshots/petPortraits/MacBook Pro-1710645170980.jpeg";
+    import d from "$lib/assets/screenshots/petPortraits/MacBook Pro-1710645221139.jpeg";
     import f from "$lib/assets/screenshots/retroChat/MacBook Pro-1710645724410.jpeg";
     import g from "$lib/assets/screenshots/retroChat/MacBook Pro-1710645785576.jpeg";
     import h from "$lib/assets/screenshots/connectFour/MacBook Pro-1710646176347.jpeg";
@@ -117,16 +122,16 @@
                         <img class="h-full w-full object-cover" src={i} alt="lifestyle" width="2000" height="1330">
                     </div>
                     <div class="hidden h-56 w-20 overflow-hidden rounded-md transition-all duration-500 hover:w-96 sm:block">
-                        <img class="h-full w-full object-cover" src="" alt="lifestyle" width="996" height="1245">
+                        <img class="h-full w-full object-cover" src={o} alt="lifestyle" width="996" height="1245">
                     </div>
                     <div class="hidden h-60 w-20 overflow-hidden rounded-md transition-all duration-500 hover:w-96 sm:block">
-                        <img class="h-full w-full object-cover" src={i} alt="lifestyle" width="2000" height="1333">
+                        <img class="h-full w-full object-cover" src={p} alt="lifestyle" width="2000" height="1333">
                     </div>
                     <div class="h-64 w-20 overflow-hidden rounded-md transition-all duration-500 hover:w-96">
-                        <img class="h-full w-full object-cover" src={i} alt="lifestyle" width="826" height="1239">
+                        <img class="h-full w-full object-cover" src={a} alt="lifestyle" width="826" height="1239">
                     </div>
                     <div class="h-72 w-20 overflow-hidden rounded-md transition-all duration-500 hover:w-96">
-                        <img class="h-full w-full object-cover" src={i} alt="lifestyle" width="1380" height="1380">
+                        <img class="h-full w-full object-cover" src={s} alt="lifestyle" width="1380" height="1380">
                     </div>
                     <div class="h-80 w-20 overflow-hidden rounded-md transition-all duration-500 hover:w-96">
                         <img class="h-full w-full object-cover" src={f} alt="lifestyle" width="1380" height="1380">
@@ -141,7 +146,7 @@
     <footer class="relative border-t py-6 dark:border-zinc-900">
         <div class="mx-auto max-w-4xl px-6 md:px-12">
             <div class="flex flex-wrap justify-between gap-4">
-                <span class="text-sm text-zinc-500 dark:text-zinc-400">© tailus 2021 - Present</span>
+                <span class="text-sm text-zinc-500 dark:text-zinc-400">© Justin Garner 2024 - Present</span>
                 <a href="#" target="_top" class="text-sm text-gray-700 dark:text-white">_top</a>
             </div>
         </div>
